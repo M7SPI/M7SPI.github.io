@@ -1,10 +1,10 @@
-# [CLICK HERE TO OPEN UVMOD](https://whosmatt.github.io/uvmod/)
-## [中文版 Open Chinese Version (maintained independently)](https://uvmod.xanyi.eu.org/)
+# [CLICK HERE TO OPEN UVMOD_M7SPI](https://m7spi.github.io/)
+
 
 ## Introduction
 
 Web-based client-side Quansheng firmware patcher written in Javascript and HTML using [Bootstrap 4.6.0](https://getbootstrap.com/docs/4.6/getting-started/introduction/), jQuery and parts of the [SB Admin 2 Theme](https://startbootstrap.com/theme/sb-admin-2).  
-It is based on the discoveries by the many contributors in the [uvmod-kitchen](https://github.com/amnemonic/Quansheng_UV-K5_Firmware/tree/main/uvmod_kitchen) and implements the same functionality in a modular and flexible javascript structure. 
+It is based on the discoveries by the many contributors in the [uvmod-kitchen](https://github.com/amnemonic/Quansheng_UV-K5_Firmware/tree/main/uvmod_kitchen) and implements the same functionality in a modular and flexible javascript structure created by fellow github member WhosMatt. 
 
 Visitors can generate a patched firmware image by selecting the desired patches. Patches modify the firmware on a binary level and can accept user input to customize variables. A custom base image can be supplied to allow support for mods that are compiled and linked directly into the firmware. 
 
